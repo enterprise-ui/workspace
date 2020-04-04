@@ -1,0 +1,14 @@
+{
+    "name": "@enterprise-ui/workspace",
+    "private": true,
+    "workspaces": {
+        "packages": [
+          "projects/**/packages/*"
+        ]
+    },
+    "scripts": {
+    },
+    "devDependencies": {
+      "cross-env": "7.0.2"
+    }
+  }
