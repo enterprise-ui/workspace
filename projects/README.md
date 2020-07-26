@@ -1,3 +1,0 @@
-# Workspace
-
-Clone projects here
