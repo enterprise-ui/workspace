@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "name": "@enterprise-ui/enterprise-ui",
+      "path": "packages/enterprise-ui"
+    },
+    {
+      "name": "@enterprise-ui/enterprise-ui-boilerplate",
+      "path": "packages/enterprise-ui-boilerplate"
+    }
+  ],
+  "settings": {}
+}
