@@ -3,8 +3,7 @@
     "private": true,
     "workspaces": {
         "packages": [
-          "multiprojects/**/packages/*",
-          "projects/*"
+          "packages/**/packages/*"
         ]
     },
     "scripts": {
