@@ -10,7 +10,8 @@
     "scripts": {
       "platform:build": "cd packages/enterprise-ui; lerna run platform:build --stream",
       "boilerplate:build": "cd packages/enterprise-ui-boilerplate; yarn build:dependencies && lerna run app:build --stream",
-      "boilerplate:start": "cd packages/enterprise-ui-boilerplate; lerna run app:start --stream"
+      "boilerplate:start": "cd packages/enterprise-ui-boilerplate; lerna run app:start --stream",
+      "boilerplate:develop": "cd packages/enterprise-ui-boilerplate; yarn build:dependencies && lerna run app:develop --stream"
     },
     "devDependencies": {
       "cross-env": "7.0.2",
